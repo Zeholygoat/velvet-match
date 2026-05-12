@@ -79,7 +79,7 @@ const results = [
     size: "L",
     min: 20,
     max: 24,
-    desc: "You love deeper sensations, getting your G-Spot hit, and big dicks with more chances to have penetrative orgasms."
+    desc: "You love deeper sensations, getting your G-Spot hit, and big dicks have more chances to give penetrative orgasms."
   },
   {
     size: "XL",
