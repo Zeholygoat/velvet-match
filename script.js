@@ -1,16 +1,16 @@
 
 const questions = [
   {
-    question: "What kind of intimacy turns you on the most?",
+    question: "What kind of foreplay turns you on the most?",
     options: [
-      ["Soft, sensual connection", 1],
-      ["Playful teasing", 2],
-      ["Passionate rough energy", 4],
-      ["Dominant fantasy vibes", 5]
+      ["Soft, sensual kissing", 1],
+      ["Playful teasing and foreplay", 2],
+      ["Passionate fingering and titty sucking", 4],
+      ["Dominant rough foreplay and teasing", 5]
     ]
   },
   {
-    question: "How much does size matter to you?",
+    question: "How much does dick size matter to you?",
     options: [
       ["Barely at all", 1],
       ["A little bit", 2],
@@ -19,39 +19,39 @@ const questions = [
     ]
   },
   {
-    question: "What size do you find visually pleasing?",
+    question: "What dick size do you find the most visually pleasing?",
     options: [
-      ["Cute and compact", 1],
-      ["Average and balanced", 2],
-      ["Large and exciting", 4],
-      ["Huge fantasy energy", 5]
+      ["Small thin dicks", 1],
+      ["Average sized dicks", 2],
+      ["Big dicks", 4],
+      ["Big black cocks", 5]
     ]
   },
   {
-    question: "How intense do you like your orgasms?",
+    question: "How do you like to get fucked?",
     options: [
-      ["Slow and gentle", 1],
-      ["Moderate and emotional", 2],
-      ["Strong and deep", 4],
-      ["Mind-blowing intensity", 5]
+      ["Slow and passionate", 1],
+      ["Slow strokes and foreplay", 2],
+      ["Abit of everything", 4],
+      ["30 minutes of non stop fucking", 5]
     ]
   },
   {
     question: "What type of experience sounds most exciting?",
     options: [
-      ["Romantic and relaxed", 1],
-      ["Playful experimentation", 2],
-      ["Wild confidence", 4],
-      ["Full fantasy adventure", 5]
+      ["Passionate", 1],
+      ["Loads of foreplay", 2],
+      ["Getting your pussy eaten", 4],
+      ["BDSM", 5]
     ]
   },
   {
-    question: "How adventurous are you overall?",
+    question: "How slutty are you overall?",
     options: [
-      ["Very cautious", 1],
-      ["Open-minded", 2],
-      ["Pretty adventurous", 4],
-      ["I love pushing limits", 5]
+      ["Very vanilly", 1],
+      ["Very Open-minded", 2],
+      ["Pretty adventurous and love toys and experimenting", 4],
+      ["I love pushing my female body limits", 5]
     ]
   }
 ];
@@ -67,25 +67,25 @@ const results = [
     size: "S",
     min: 10,
     max: 14,
-    desc: "You like balanced experiences with just enough excitement to keep things playful and satisfying."
+    desc: "You like simple experiences with just enough excitement to keep things playful and satisfying."
   },
   {
     size: "M",
     min: 15,
     max: 19,
-    desc: "You enjoy confident pleasure and versatility. Medium is your sweet spot for comfort and intensity."
+    desc: "You enjoy passionate sex and orgasms. Medium is almost every girls sweet spot for comfort and sexual pleasure."
   },
   {
     size: "L",
     min: 20,
     max: 24,
-    desc: "You love bold sensations, stronger intensity, and fuller experiences with extra excitement."
+    desc: "You love deeper sensations, getting your G-Spot hit, and big dicks with more chances to have penetrative orgasms."
   },
   {
     size: "XL",
     min: 25,
     max: 30,
-    desc: "You crave fantasy-level thrills, confidence, and maximum adventurous energy."
+    desc: "You are freaky in bed and love to be wild"
   }
 ];
 
